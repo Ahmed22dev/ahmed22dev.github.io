@@ -1,1 +1,1 @@
-#1 https://ahmed22dev.github.io/recipe/pancakes/
+https://ahmed22dev.github.io/recipe/pancakes/
