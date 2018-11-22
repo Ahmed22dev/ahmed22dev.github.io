@@ -1,1 +1,1 @@
-https://ahmed22dev.github.io/recipe/pancakes/
+ahmed22dev.github.io
